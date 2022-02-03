@@ -53,7 +53,7 @@
  </details>
 - ⚡ Fun fact: I think reading docs is better then watching videos.
 <br>
-**Languages and Tools:**  
+<b>Languages and Tools:</b>  
 <p aling="center">
 
 <code><img width="5%" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -64,7 +64,7 @@
 <code><img width="5%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
 <br>
-**Github Stats**  
+<b>Github Stats</b>
 <p aling="center">
 
 <a href="https://github.com/ThevenRexOff">

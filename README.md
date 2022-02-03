@@ -81,8 +81,8 @@
   <a href="https://www.tiktok.com/@thevenrex" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github.com/ThevenRexOff/ThevenRexOff/blob/main/preview.gif" width="350" />
 
-</div>
+</div> -->

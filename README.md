@@ -6,22 +6,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 
 <a href="https://twitter.com/ThevenRex">
-  <img align="left" alt="Thevenrex Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Thevenrex Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/theven-rex-7a822822b/">
-  <img align="left" alt="Thevenrex Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Thevenrex Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ThevenRexOff">
-  <img align="left" alt="Thevenrex Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Thevenrex Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/ThevenRex_tu_papi">
-  <img align="left" alt="Thevenrex Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Thevenrex Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/thevenrex_oficial/">
-  <img align="left" alt="Thevenrex Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Thevenrex Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/theven.rex">
-  <img align="left" alt="Thevenrex Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Thevenrex Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>

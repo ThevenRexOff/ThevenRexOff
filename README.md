@@ -1,8 +1,7 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<p align="center">
- # Hi, I'm ThevenRex :chicken:
-</p>
+
+# Hi, I'm ThevenRex :chicken:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 
@@ -53,22 +52,23 @@
 - <a href="https://github.com/ThevenRexOff" target = "_blank"><img height="20"  alt="Thevenrex Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></img> Github</a> <br>
  </details>
 - ⚡ Fun fact: I think reading docs is better then watching videos.
+<br>
 
-
+<p aling="center">
 **Languages and Tools:**  
-
 <code><img width="5%" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="5%" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img width="5%" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width="5%" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img width="5%" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img width="5%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+</p>
+<p aling="center">
 **Github Stats**  
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>
-
+</p>
 
 <div> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

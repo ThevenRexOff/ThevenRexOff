@@ -32,17 +32,17 @@
  - 🤔 I’m looking for help me in Vue.js.
 <details>
 <summary> 💬 Me about </summary>
- - ETHICAL HACKING <br>
- - CARDING<br>
- - BINNING<br>
- - ACCOUNT CRACKING<br>
- - WEB SCRAPPING<br>
- - GFX DESIGNING<br>
+  - ETHICAL HACKING <br>
+  - CARDING<br>
+  - BINNING<br>
+  - ACCOUNT CRACKING<br>
+  - WEB SCRAPPING<br>
+  - GFX DESIGNING<br>
 <summary>- 👨‍💻 Programming Languages </summary>
- - FROND END(JR)<br>
- - PYTHON (Moderate)<br>
- - PHP (Moderate)<br>
- - MYSQL (Moderate)<br>
+  - FROND END(JR)<br>
+  - PYTHON (Moderate)<br>
+  - PHP (Moderate)<br>
+  - MYSQL (Moderate)<br>
 </details>
 
 <details>

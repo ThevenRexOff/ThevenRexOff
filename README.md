@@ -53,9 +53,9 @@
  </details>
 - ⚡ Fun fact: I think reading docs is better then watching videos.
 <br>
-
-<p aling="center">
 **Languages and Tools:**  
+<p aling="center">
+
 <code><img width="5%" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="5%" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img width="5%" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -63,8 +63,10 @@
 <code><img width="5%" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img width="5%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
-<p aling="center">
+<br>
 **Github Stats**  
+<p aling="center">
+
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>

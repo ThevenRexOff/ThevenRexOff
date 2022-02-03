@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi, I'm ThevenRex :chicken: </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 
 <a href="https://twitter.com/ThevenRex">
   <img align="left" alt="Thevenrex Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

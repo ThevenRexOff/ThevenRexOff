@@ -23,9 +23,10 @@
 
 <br/>
 <br/>
-- 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning Vue.js.
-- 🤔 I’m looking for help me in Vue.js.
+
+ - 🔭 I’m currently working on nothing.
+ - 🌱 I’m currently learning Vue.js.
+ - 🤔 I’m looking for help me in Vue.js.
 <details>
 <summary> 💬 Me about </summary>
  - ETHICAL HACKING <br>

@@ -4,7 +4,6 @@
 <h1 align="center"> Hi, I'm ThevenRex :chicken: </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
-<br/>
 
  - 🔭 I’m currently working on nothing.
  - 🌱 I’m currently learning Vue.js.

@@ -4,10 +4,11 @@
 <h1 align="center"> Hi, I'm ThevenRex :chicken: </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
-
+<h4 align="center">
  - 🔭 I’m currently working on nothing.
  - 🌱 I’m currently learning Vue.js.
  - 🤔 I’m looking for help me in Vue.js.
+<h4>
 <details>
 <summary> 💬 Me about </summary>
  - ETHICAL HACKING <br>

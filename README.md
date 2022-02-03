@@ -1,7 +1,7 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <p align="center">
-  <b style="font-size: 50px"> Hi, I'm ThevenRex :chicken:</b>
+ # Hi, I'm ThevenRex :chicken:
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>

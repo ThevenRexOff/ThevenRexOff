@@ -33,8 +33,6 @@
 <details>
 <summary> 💬 Me about </summary>
  - ETHICAL HACKING <br>
- - APK REVERSING<br>
- - GAME CHEATING<br>
  - CARDING<br>
  - BINNING<br>
  - ACCOUNT CRACKING<br>
@@ -58,12 +56,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width="10%" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width="10%" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+<code><img width="10%" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img width="10%" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img width="10%" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img width="10%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 **Github Stats**  
 <a href="https://github.com/ThevenRexOff">
@@ -82,6 +80,6 @@
 
 <div align="center">
 
-# I ❤️ like to learn
+<img src="https://github.com/ThevenRexOff/ThevenRexOff/blob/main/preview.gif" width="350" />
 
 </div>

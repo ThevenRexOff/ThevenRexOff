@@ -1,13 +1,13 @@
-## Hello, I'm [ThevenRex!]. 👋
+## Hello, I'm ThevenRex!. 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 
-<!-- <a href="https://twitter.com/ThevenRex">
+<a href="https://twitter.com/ThevenRex">
   <img align="left" alt="Thevenrex Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
-<!-- <a href="https://www.linkedin.com/in/theven-rex-7a822822b/">
+</a>
+<a href="https://www.linkedin.com/in/theven-rex-7a822822b/">
   <img align="left" alt="Thevenrex Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
+</a>
 <a href="https://github.com/ThevenRexOff">
   <img align="left" alt="Thevenrex Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -17,13 +17,11 @@
 <a href="https://www.instagram.com/thevenrex_oficial/">
   <img align="left" alt="Thevenrex Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<!-- <a href="https://www.facebook.com/theven.rex">
+<a href="https://www.facebook.com/theven.rex">
   <img align="left" alt="Thevenrex Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> -->
+</a>
 
 <br/>
-<br/>
-
 
 - 🔭 I’m currently working on nothing.
 - 🌱 I’m currently learning Vue.js.
@@ -53,50 +51,22 @@
  </details>
 - ⚡ Fun fact: I think reading docs is better then watching videos.
 
-## Where You Can Find Me
-- <a href="https://t.me/ThevenRex_tu_papi" target = "_blank"><img height="20"  alt="Thevenrex Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></img> Telegram</a><br>
-- <a href="https://instagram.com/thevenrex_oficial" target = "_blank"><img height="20"  alt="Thevenrex Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></img> Instagram</a> <br>
-- <a href="https://github.com/ThevenRexOff" target = "_blank"><img height="20"  alt="Thevenrex Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></img> Github</a> <br>
-<!-- [Instagram: ThevenRex](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://instagram.com/thevenrex_oficial)
-[Telegram: ThevenRex](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.t.me/ThevenRex_tu_papi)
-[Github: ThevenRex](https://img.shields.io/github/followers/ThevenRex?label=follow&style=social)](https://github.com/ThevenRexOff) -->
-
 
 **Languages and Tools:**  
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<div style="display: inline_block justify-content: center text-align: center"><br>
-  <img align="center" alt="Theven-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Theven-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Theven-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Theven-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Theven-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Theven-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 **Github Stats**  
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>
 
-**Top Languages**  
-<a href="https://github.com/ThevenRexOff">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&langs_count=6&layout=compact" alt="Thevenrex Github Languages"/>
-</a>
 
-<!-- **Top Languages**   -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThevenRexOff&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <a href="https://github.com/ThevenRexOff/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThevenRexOff&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/ThevenRexOff/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThevenRexOff&repo=VelocityX&theme=light" />
-</a> -->
 <div> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:thevenrexoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -105,8 +75,9 @@
   <a href="https://www.facebook.com/theven.rex" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.tiktok.com/@thevenrex" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </div>
+<br>
 <div align="center">
 
-###I ❤️ like to learn
+# I ❤️ like to learn
 
 </div>

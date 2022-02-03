@@ -1,4 +1,4 @@
-# Hi, I'm ThevenRex(Nickname) :chicken:
+# Hi, I'm ThevenRex :chicken:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 

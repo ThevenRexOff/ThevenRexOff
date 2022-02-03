@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 <h4 align="center">
-  - 🔭 I’m currently working on nothing.<br>
-  - 🌱 I’m currently learning Vue.js.<br>
-  - 🤔 I’m looking for help me in Vue.js.<br>
+🔭 I’m currently working on nothing  .<br>
+🌱 I’m currently learning Vue.js     .<br>
+🤔 I’m looking for help me in Vue.js .<br>
 <h4>
 <details>
 <summary> 💬 Me about </summary>

@@ -10,10 +10,12 @@
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
 <br>
+ 
 <a href="https://github.com/ThevenRexOff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>
  
+<br>
 <br>
  
 <div> 

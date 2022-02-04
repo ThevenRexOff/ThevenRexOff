@@ -9,6 +9,8 @@
 🌱 I’m currently learning Vue.js     .<br>
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
+
+<h6 aling="center">
 <details>
 <summary> 💬 About Me</summary>
  - ETHICAL HACKING <br>
@@ -24,6 +26,7 @@
  - PHP (Moderate)<br>
  - MYSQL (Moderate)<br>
 </details>
+</h6>
 
 <details>
 <summary> 📫 How to reach me: </summary>

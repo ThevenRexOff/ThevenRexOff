@@ -9,25 +9,7 @@
 🌱 I’m currently learning Vue.js     .<br>
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
-
-<h6 aling="center">
-<details>
-<summary> 💬 About Me</summary>
- - ETHICAL HACKING <br>
- - CARDING<br>
- - BINNING<br>
- - ACCOUNT CRACKING<br>
- - WEB SCRAPPING<br>
- - GFX DESIGNING<br>
  
-<summary>👨‍💻 Programming Languages </summary>
- - FROND END(JR)<br>
- - PYTHON (Moderate)<br>
- - PHP (Moderate)<br>
- - MYSQL (Moderate)<br>
-</details>
-</h6>
-
 <details>
 <summary> 📫 How to reach me: </summary>
 - <a href="https://t.me/ThevenRex_tu_papi" target = "_blank"><img height="20"  alt="Thevenrex Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></img> Telegram</a><br>
@@ -36,9 +18,10 @@
  </details>
 - ⚡ Fun fact: I think reading docs is better then watching videos.
 <br>
-<b>Languages and Tools:</b>  
-<p aling="center">
 
+<h3>👨‍💻 Programming Languages </h3>
+<p aling="center">
+ 
 <code><img width="5%" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img width="5%" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img width="5%" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

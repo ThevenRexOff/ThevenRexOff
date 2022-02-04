@@ -10,14 +10,15 @@
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
 <details>
-<summary> 💬 Me about </summary>
+<summary> 💬 About Me</summary>
  - ETHICAL HACKING <br>
  - CARDING<br>
  - BINNING<br>
  - ACCOUNT CRACKING<br>
  - WEB SCRAPPING<br>
  - GFX DESIGNING<br>
-<summary>- 👨‍💻 Programming Languages </summary>
+ 
+<summary>👨‍💻 Programming Languages </summary>
  - FROND END(JR)<br>
  - PYTHON (Moderate)<br>
  - PHP (Moderate)<br>

@@ -23,7 +23,7 @@
 <br>
  
 
-<b>Github Stats</b>
+<b>>>>>>>>>>>>>>>>>>>>>>>></b>
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>
@@ -37,6 +37,9 @@
   <a href="https://www.tiktok.com/@thevenrex" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </div>
 
+ 
+ <h3> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>
+ 
 <!-- <div align="center">
 
 <img src="https://github.com/ThevenRexOff/ThevenRexOff/blob/main/preview.gif" width="350" />

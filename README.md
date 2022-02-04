@@ -10,7 +10,7 @@
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
  
-<details>
+<details aling="center">
 <summary> 📫 How to reach me: </summary>
 - <a href="https://t.me/ThevenRex_tu_papi" target = "_blank"><img height="20"  alt="Thevenrex Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></img> Telegram</a><br>
 - <a href="https://instagram.com/thevenrex_oficial" target = "_blank"><img height="20"  alt="Thevenrex Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></img> Instagram</a> <br>

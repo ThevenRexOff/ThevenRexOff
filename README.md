@@ -9,24 +9,7 @@
 🌱 I’m currently learning Vue.js     .<br>
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
-
-<h3 align="center">👨‍💻 Programming Languages </h3>
-<code><img width="5%" style="display:block;
-margin:auto;" align="center" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><br>
-<code><img width="5%" align="center" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <br>
- <code><img width="5%" align="center" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
- <br>
-<code><img width="5%" align="center" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
- <br>
-<code><img width="5%" align="center" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<br>
- <code><img width="5%" align="center" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- 
-<br>
- 
-
-
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>

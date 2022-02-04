@@ -36,7 +36,7 @@
  <code><img width="5%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br>
  </div>
- <h3> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>
+ <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>
  
 <!-- <div align="center">
 

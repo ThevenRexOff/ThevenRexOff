@@ -27,7 +27,7 @@
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>
-<b align="right"><<<<<<<<<<<<<<<<<<<<<<<<<b>
+<b align="right"><<<<<<<<<<<<<<<<<<<<<<<<</b>
 <div> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:thevenrexoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

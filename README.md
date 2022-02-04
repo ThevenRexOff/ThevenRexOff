@@ -9,9 +9,6 @@
 🌱 I’m currently learning Vue.js     .<br>
 🤔 I’m looking for help me in Vue.js .<br>
 <h4>
- 
-- ⚡ Fun fact: I think reading docs is better then watching videos.
-<br>
 
 <h3>👨‍💻 Programming Languages </h3>
 <p aling="center">
@@ -24,13 +21,12 @@
 <code><img width="5%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
 <br>
-<b>Github Stats</b>
-<p aling="center">
+ 
 
+<b>Github Stats</b>
 <a href="https://github.com/ThevenRexOff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
 </a>
-</p>
 
 <div> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

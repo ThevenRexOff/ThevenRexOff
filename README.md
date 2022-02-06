@@ -37,7 +37,7 @@
 <br>
   <br>
   <a href="https://github.com/ThevenRexOff">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" />
+  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" />
 </a>
  </div>
  <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>

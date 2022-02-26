@@ -23,14 +23,20 @@
 
 <h1 align="center"> 📜 Certificates: </h1>
 <p align="center">
-  <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
+<!--   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
     <img src="https://img.shields.io/badge/certificate-Python%20for%20Beginners-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
   </a>
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
     <img src="https://img.shields.io/badge/certificate-Python%20Core-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
-  </a>
+  </a> -->
 </p>
-
+<h2 align="center"> 🧮 Counter: </h2>
+<p align="center">
+  <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff.ThevenRexOff&style=for-the-badge">
+<a>
+</p>
+   
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p> -->
 <h4 align="center">
 🔭 I’m currently working on nothing  .<br>

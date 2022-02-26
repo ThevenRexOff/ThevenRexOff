@@ -2,16 +2,25 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
 <h1 align="center"> Hi, I'm ThevenRex :chicken: </h1>
-<h1 align="center"> 📊 Stats: </h1>
 
+<h1 align="center"> 📊 Stats: </h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
-  </a> -->
 </p>
+
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ThevenRexOff&theme=radical">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ThevenRexOff&theme=react-dark&hide_border=true">
+  </a>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p>
 <h4 align="center">

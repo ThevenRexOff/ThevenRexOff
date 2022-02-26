@@ -1,7 +1,7 @@
 
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
-<h1 align="center"> Hi, I'm ThevenRex :love: </h1>
+<h1 align="center"> Hi, I'm ThevenRex 🍁 </h1>
 <h4 align="center">
 🔭 I’m currently working on nothing  .<br>
 🌱 I’m currently learning Vue.js     .<br>

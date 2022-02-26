@@ -1,5 +1,5 @@
 
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+[![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <h1 align="center"> Hi, I'm ThevenRex 🍁 </h1>
 <h4 align="center">
@@ -42,7 +42,14 @@
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff.ThevenRexOff&style=for-the-badge">
 <a>
 </p>
- 
+    
+<!-- <h1 align="center"> ☕ Donation: </h1>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ThevenRexOff" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-ThevenRexOff-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
+  </a>
+</p> -->
+    
 <p align="center"> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:thevenrexoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

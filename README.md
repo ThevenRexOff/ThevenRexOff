@@ -2,6 +2,12 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
 <h1 align="center"> Hi, I'm ThevenRex :chicken: </h1>
+<h4 align="center">
+🔭 I’m currently working on nothing  .<br>
+🌱 I’m currently learning Vue.js     .<br>
+🤔 I’m looking for help me in Vue.js .<br>
+<h4>
+
 
 <h1 align="center"> 📊 Stats: </h1>
 <p align="center">
@@ -37,20 +43,6 @@
 <a>
 </p>
    
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThevenRex&color=brightgreen&style=flat" alt="ThevenRex" /> </p> -->
-<h4 align="center">
-🔭 I’m currently working on nothing  .<br>
-🌱 I’m currently learning Vue.js     .<br>
-🤔 I’m looking for help me in Vue.js .<br>
-<h4>
-<br>
- 
-<a href="https://github.com/ThevenRexOff">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&count_private=true&show_icons=true&theme=radical&hide_title=true&include_all_commits&show_owner=true" alt="Github Stats"/>
-</a>
- 
-<br>
-<br>
  
 <div> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -1,7 +1,7 @@
 
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
-<h1 align="center"> Hi, I'm ThevenRex :chicken: </h1>
+<h1 align="center"> Hi, I'm ThevenRex :love: </h1>
 <h4 align="center">
 🔭 I’m currently working on nothing  .<br>
 🌱 I’m currently learning Vue.js     .<br>
@@ -42,7 +42,6 @@
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff.ThevenRexOff&style=for-the-badge">
 <a>
 </p>
-   
  
 <p align="center"> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -54,17 +53,18 @@
 </p>
  
 <p align="center"> 
-<code><img width="3%"  alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width="3%"alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="3%" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img width="3%"  alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img width="3%"  alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img width="3%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img width="3%"  alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img width="3%"alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img width="3%" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img width="3%"  alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+  <code><img width="3%"  alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+  <code><img width="3%" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
-  <a href="https://github.com/ThevenRexOff">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" />
-</a>
+ <p align="center">
+  <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" /></a>
+ </p>
  </div>
+ 
  <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>
  
 <!-- <div align="center">

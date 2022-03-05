@@ -50,7 +50,6 @@
     <img src="https://img.shields.io/badge/Donate-ThevenRexOff-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
   </a>
 </p> -->
-<h1 align="center"> 👻 Languages and Tools:: </h1>    
 <p align="center"> 
   <a href="https://instagram.com/thevenrex_oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:thevenrexoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -60,6 +59,7 @@
   <a href="https://www.tiktok.com/@thevenrex" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
  
+<h1 align="center"> 👻 Languages and Tools: </h1>    
 <p align="center"> 
   <code><img width="3%"  alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img width="3%"alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

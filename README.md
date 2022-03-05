@@ -71,7 +71,10 @@
  <p align="center">
   <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" /></a>
  </p>
- </div>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThevenRexOff" alt="ThevenRexOff" /></a> 
+    </p>
+
  
  <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>
  

@@ -40,7 +40,7 @@
 <h2 align="center"> 🧮 Counter: </h2>
 <p align="center">
   <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff.ThevenRexOff&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff&style=for-the-badge">
 <a>
 </p>
     
@@ -72,9 +72,7 @@
  <p align="center">
   <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" /></a>
  </p>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThevenRexOff" style="margin:1px" alt="ThevenRexOff" /></a> 
-    </p>
+
 
  
  <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>

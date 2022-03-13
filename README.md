@@ -84,10 +84,8 @@
 
 
  
- <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3>
+<!--  <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3> -->
  
-<!-- <div align="center">
-
+<p align="center">
 <img src="https://github.com/ThevenRexOff/ThevenRexOff/blob/main/preview.gif" width="350" />
-
-</div> -->
+</p>

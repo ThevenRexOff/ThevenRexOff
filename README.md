@@ -74,10 +74,10 @@
   <code><img width="3%" alt="redis"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
   <code><img width="3%" alt="heroku"        src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
   <code><img width="3%" alt="git"           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code><img width="3%" alt="Linux"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
   <code><img width="3%" alt="Ilustrator"    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
   <code><img width="3%" alt="photoshop"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
   <code><img width="3%" alt="adobe-xd"      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
+  <code><img width="3%" alt="Linux"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
     </p>
  <p align="center">
   <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" /></a>

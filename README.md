@@ -6,6 +6,7 @@
 🔭 I’m currently working on nothing  .<br>
 🌱 I’m currently learning Vue.js     .<br>
 🤔 I’m looking for help me in Vue.js .<br>
+⚡ Fun fact: I think reading docs is better then watching videos.<br>
 <h4>
 
 
@@ -81,10 +82,6 @@
  <p align="center">
   <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" /></a>
  </p>
-
-
- 
-<!--  <h3 align="center"> - ⚡ Fun fact: I think reading docs is better then watching videos.</h3> -->
  
 <p align="center">
 <img src="https://github.com/ThevenRexOff/ThevenRexOff/blob/main/preview.gif" width="350" />

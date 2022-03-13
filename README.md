@@ -61,7 +61,7 @@
   <a href="https://www.tiktok.com/@thevenrex" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
  
-<h2 align="center"> 👻 Languages and Tools:  </h2>    
+<h2 align="center"> ⚙ Languages and Tools:  </h2>    
 <p align="center"> 
   <code><img width="3%" alt="html"          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img width="3%" alt="css"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

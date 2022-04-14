@@ -4,8 +4,8 @@
 <h1 align="center"> Hi, I'm ThevenRex 🍁 </h1>
 <h4 align="center">
 🔭 I’m currently working on nothing  .<br>
-🌱 I’m currently learning Vue.js     .<br>
-🤔 I’m looking for help me in Vue.js .<br>
+🌱 I’m currently learning React.js     .<br>
+🤔 I’m looking for help me in React.js .<br>
 ⚡ Fun fact: I think reading docs is better then watching videos.<br>
 <h4>
 

@@ -82,7 +82,7 @@
   <code><img width="3%" alt="Linux"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
     </p>
  <p align="center">
-  <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=dracula&hide_langs_below=1" /></a>
+  <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=react&hide_langs_below=1" /></a>
  </p>
  
 <p align="center">

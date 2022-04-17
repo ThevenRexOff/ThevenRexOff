@@ -20,7 +20,7 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ThevenRexOff&theme=radical">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ThevenRexOff&theme=reac">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">

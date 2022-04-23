@@ -63,23 +63,23 @@
  
 <h2 align="center"> ⚙ Languages and Tools:  </h2>    
 <p align="center"> 
-  <code><img width="5%" alt="html"          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img width="5%" alt="css"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img width="5%" alt="js"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img width="5%" alt="bootstrap"     src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"></code>
-  <code><img width="5%" alt="sass"          src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-  <code><img width="5%" alt="php"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img width="5%" alt="mysql"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img width="5%" alt="python"        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img width="5%" alt="heroku"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-  <code><img width="5%" alt="heroku"        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-  <code><img width="5%" alt="redis"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
-  <code><img width="5%" alt="heroku"        src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
-  <code><img width="5%" alt="git"           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-  <code><img width="5%" alt="Ilustrator"    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
-  <code><img width="5%" alt="photoshop"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
-  <code><img width="5%" alt="adobe-xd"      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
-  <code><img width="5%" alt="Linux"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+  <code><img width="4%" alt="html"          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img width="4%" alt="css"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img width="4%" alt="js"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img width="4%" alt="bootstrap"     src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"></code>
+  <code><img width="4%" alt="sass"          src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+  <code><img width="4%" alt="php"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+  <code><img width="4%" alt="mysql"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+  <code><img width="4%" alt="python"        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img width="4%" alt="heroku"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+  <code><img width="4%" alt="heroku"        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+  <code><img width="4%" alt="redis"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
+  <code><img width="4%" alt="heroku"        src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+  <code><img width="4%" alt="git"           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+  <code><img width="4%" alt="Ilustrator"    src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"></code>
+  <code><img width="4%" alt="photoshop"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+  <code><img width="4%" alt="adobe-xd"      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
+  <code><img width="4%" alt="Linux"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
     </p>
  <p align="center">
   <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=react&hide_langs_below=1" /></a>

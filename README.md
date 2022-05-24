@@ -1,5 +1,5 @@
 
-<!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+[![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <h1 align="center"> Hi, I'm ThevenRex 🍁 </h1>
 <h4 align="center">
@@ -87,6 +87,6 @@
   <a href="https://github.com/ThevenRexOff"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevenRexOff&theme=react&hide_langs_below=1" /></a>
  </p>
  
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/ThevenRexOff/ThevenRexOff/blob/main/preview.gif" width="350" />
-</p>
+</p> -->
